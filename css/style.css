@@ -31,3 +31,9 @@ body {
 .align-items-center{
     align-items: center;
 }
+
+.btn {
+    padding: 10px 15px;
+    border-radius: 15px;
+    background-color: white;
+}
