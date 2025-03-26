@@ -3,3 +3,31 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    background-color: rgb(173, 171, 171);
+}
+
+.d-flex {
+    display: flex;
+}
+
+.direction-column {
+    flex-direction: column;
+}
+
+.mx-auto {
+    margin: 0 auto;
+}
+
+.wrap {
+    flex-wrap: wrap;
+}
+
+.w-50 {
+    width: 50%;
+}
+
+.align-items-center{
+    align-items: center;
+}
