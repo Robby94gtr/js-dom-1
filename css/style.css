@@ -8,6 +8,14 @@ body {
     background-color: rgb(173, 171, 171);
 }
 
+.d-none {
+    display: none;
+}
+
+.d-block {
+    display: block;
+}
+
 .d-flex {
     display: flex;
 }
